@@ -1,0 +1,4 @@
+﻿  Lab5Task5.cpp
+C:\Users\User\source\repos\MySystemProgramm\Лаба 5 Задание 5\Lab5Task5.cpp(60,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\MySystemProgramm\Лаба 5 Задание 5\Lab5Task5.cpp(79,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Лаба 5 Задание 5.vcxproj -> C:\Users\User\source\repos\MySystemProgramm\x64\Debug\Лаба 5 Задание 5.exe
