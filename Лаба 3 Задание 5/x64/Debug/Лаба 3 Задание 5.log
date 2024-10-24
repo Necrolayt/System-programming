@@ -1,0 +1,5 @@
+﻿  Lab3Task5.cpp
+C:\Users\User\source\repos\MySystemProgramm\Лаба 3 Задание 5\Lab3Task5.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\User\source\repos\MySystemProgramm\Лаба 3 Задание 5\Lab3Task5.cpp(9,11): warning C4101: index: неиспользованная локальная переменная
+C:\Users\User\source\repos\MySystemProgramm\Лаба 3 Задание 5\Lab3Task5.cpp(9,6): warning C4101: min: неиспользованная локальная переменная
+  Лаба 3 Задание 5.vcxproj -> C:\Users\User\source\repos\MySystemProgramm\x64\Debug\Лаба 3 Задание 5.exe
