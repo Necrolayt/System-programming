@@ -1,0 +1,8 @@
+﻿  Lab2Task1.cpp
+C:\Users\User\source\repos\MySystemProgramm\Лаба 2 Задание 1\Lab2Task1.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\User\source\repos\MySystemProgramm\Лаба 2 Задание 1\Lab2Task1.cpp(41,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\MySystemProgramm\Лаба 2 Задание 1\Lab2Task1.cpp(347,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\MySystemProgramm\Лаба 2 Задание 1\Lab2Task1.cpp(359,15): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\MySystemProgramm\Лаба 2 Задание 1\Lab2Task1.cpp(368,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\MySystemProgramm\Лаба 2 Задание 1\Lab2Task1.cpp(374,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Лаба 2 Задание 1.vcxproj -> C:\Users\User\source\repos\MySystemProgramm\x64\Debug\Лаба 2 Задание 1.exe
