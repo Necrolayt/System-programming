@@ -1,0 +1,7 @@
+﻿  Laba4Task2.cpp
+C:\Users\User\source\repos\MySystemProgramm\Лаба 4 Задание 2\Laba4Task2.cpp(2,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\User\source\repos\MySystemProgramm\Лаба 4 Задание 2\Laba4Task2.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\User\source\repos\MySystemProgramm\Лаба 4 Задание 2\Laba4Task2.cpp(38,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\MySystemProgramm\Лаба 4 Задание 2\Laba4Task2.cpp(45,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\MySystemProgramm\Лаба 4 Задание 2\Laba4Task2.cpp(52,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Лаба 4 Задание 2.vcxproj -> C:\Users\User\source\repos\MySystemProgramm\x64\Debug\Лаба 4 Задание 2.exe
